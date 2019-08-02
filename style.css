@@ -5,3 +5,15 @@
 .hidden {
   display: none;
 }
+
+button:hover {
+  cursor: pointer;
+}
+
+.container{
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
